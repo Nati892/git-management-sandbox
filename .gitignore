@@ -9,6 +9,6 @@ file03 ignore.txt
 
 
 #entire fodler
-#fullignore/*
+fullignore/*
 partial ignore/file03 ignore.txt
 partial ignore/ignore file04.txt
