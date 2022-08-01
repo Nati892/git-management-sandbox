@@ -12,3 +12,4 @@ file03 ignore.txt
 fullignore/*
 partial ignore/file03 ignore.txt
 partial ignore/ignore file04.txt
+ignore1.txt
