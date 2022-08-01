@@ -1,2 +1,14 @@
+#specific file
 file03ignore.txt
+#same
 file03 ignore.txt
+#wildcard
+#ignore*.txt
+#all that starts with 'ignore'
+#ignore*
+
+
+#entire fodler
+full ignore
+partial ignore/file03 ignore.txt
+partial ignore/ignore file04.txt
