@@ -12,3 +12,5 @@ ignore1.txt
 fullignore/*
 partial ignore/file03 ignore.txt
 partial ignore/ignore file04.txt
+
+#- git rm -rf --cached .
